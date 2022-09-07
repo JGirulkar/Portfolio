@@ -158,6 +158,7 @@ body {
 /*     font-family: 'Share Tech Mono', monospace; */
     font-family: 'PT Sans', sans-serif;
     text-decoration: none;
+    
 }
 
 .about_me h1 {
@@ -167,6 +168,11 @@ body {
     text-decoration: underline;
     text-decoration-color: #fbf500;
     text-underline-offset: 0.5em;
+   
+}
+
+.about_me p{
+ padding: 0 1em;
 }
 
 .feedback{
