@@ -168,6 +168,11 @@ body {
     text-underline-offset: 0.5em;
 }
 
+.feedback{
+color: inherit;
+    text-decoration: none;
+}
+
 .skills_heading {
     font-family: 'Share Tech Mono', monospace;
     letter-spacing: 0.2em;
