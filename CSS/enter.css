@@ -156,6 +156,7 @@ body {
     text-align: center;
     padding: 4em 2em;
     font-family: 'Share Tech Mono', monospace;
+    text-decoration: none;
 }
 
 .about_me h1 {
